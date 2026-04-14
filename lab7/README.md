@@ -1,0 +1,1 @@
+As shown in the assignment solutions the task is to develop a( Logistic Regression model) to predict whether a particular internet user will click on an advertisement based on their user profile features.
