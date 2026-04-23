@@ -1,0 +1,1 @@
+Predicting loan defaults from LendingClub data (2007–2010) using **Seaborn** for EDA and **Scikit-Learn** to compare a **Decision Tree** (high recall for risk) against a **Random Forest** (85% accuracy) to optimize investor decision-making.
